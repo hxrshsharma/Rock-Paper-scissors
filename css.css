@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(25, 25, 25);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-weight: bold;
+}
+.option{
+    cursor: pointer;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    background-color: rgb(25, 25, 25);
+    color: white;
+    border: 3px solid white ;
+    margin-right: 10px;
+}
+#js-result{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.emoji{
+    height: 50px;
+}
+
+
+#reset{
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    padding: 8px 15px;
+}
